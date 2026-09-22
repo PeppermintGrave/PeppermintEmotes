@@ -1,10 +1,4 @@
---[[ 
-    Source script taken from: https://create.roblox.com/docs/characters/emotes
-
-    scriptblox: 
-]]
-
-
+--Custom Coded
 if _G.EmotesGUIRunning then
     getgenv().Notify({
         Title = 'PeppermintGrave | Emote',
